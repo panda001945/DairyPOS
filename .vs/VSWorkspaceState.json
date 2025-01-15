@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\db",
+    "\\lib",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\com.dairypos",
+    "\\src\\main\\java\\views",
+    "\\src\\test",
+    "\\src\\test\\comdairypos"
+  ],
+  "SelectedNode": "\\src\\main\\java\\com.dairypos\\main.java",
+  "PreviewInSolutionExplorer": false
+}
